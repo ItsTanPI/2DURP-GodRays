@@ -3,7 +3,7 @@
 ## Overview
 **2DURP GodRays** is a post-processing shader designed to add a God Rays effect, particularly in 2D scenes. This effect simulates light scattering through a medium, creating visually striking rays of light that enhance the atmosphere of your game.
 
-[![Watch the video](./Images%20and%20Videos/Movie_002.mp4)](./Images%20and%20Videos/Movie_002.mp4)
+
 
 ## How to Use
 
@@ -44,10 +44,12 @@
   - `2`: Trilinear (Super Smooth)
 
 ## Images and Videos
-
-
-
+[![Watch the video](./Images%20and%20Videos/Movie_002.mp4)](./Images%20and%20Videos/Movie_002.mp4)
 Click the link above to watch a video demonstration of the 2DURP GodRays shader in action.
 
 ## Conclusion
 That's it! You've successfully added the God Rays effect to your 2D scene. Enjoy the enhanced visuals!
+
+## Contributing
+
+Feel free to fork the repository, create a branch, and submit pull requests. Contributions are welcome!

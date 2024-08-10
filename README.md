@@ -42,10 +42,11 @@ https://github.com/user-attachments/assets/dd43c394-350e-404b-9820-889c1c1c5a74
   - `0`: Point Filter (Pixelated)
   - `1`: Bilinear (Smoother)
   - `2`: Trilinear (Super Smooth)
-
-## Images and Videos
-[![Watch the video](./Images%20and%20Videos/Movie_002.mp4)](./Images%20and%20Videos/Movie_002.mp4)
-Click the link above to watch a video demonstration of the 2DURP GodRays shader in action.
+    
+## Asset Credits
+- **Character**: [Shadow Series - The Blind Huntress](https://escape-pixel.itch.io/shadow-series-the-blind-huntress) by Escape Pixel
+- **Bot**: [Sci-Fi Character Pack 12](https://penusbmic.itch.io/sci-fi-character-pack-12) by Penusbmic
+- **Background**: [Mountain Silhouette Pixelart Parallax Background](https://www.gamedevmarket.net/asset/mountain-silhouette-pixelart-parallax-background) from GameDev Market
 
 ## Conclusion
 That's it! You've successfully added the God Rays effect to your 2D scene. Enjoy the enhanced visuals!

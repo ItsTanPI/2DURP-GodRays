@@ -2,6 +2,14 @@ using System;
 using UnityEngine;
 using UnityEngine.Rendering;
 
+// GodRaysVolume.cs
+// This script handles the volume settings for the God Rays post-processing effect in the Unity scene.
+// It allows for customization of light exposure, density, decay, and other related settings.
+//
+// Project Repository: https://github.com/ItsTanPI/2DURP-GodRays
+// My itch.io Profile: https://tan-pi.itch.io
+
+
 namespace GodRays2D.Runtime.GodRays
 {
     [Serializable]

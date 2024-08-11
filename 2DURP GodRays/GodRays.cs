@@ -3,6 +3,13 @@ using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
 
 
+// GodRays.cs
+// This script handles the creation and configuration of the God Rays effect in the Unity URP 2D environment.
+// It manages the shader parameters and applies the post-processing effect to the scene.
+//
+// Project Repository: https://github.com/ItsTanPI/2DURP-GodRays
+// My itch.io Profile: https://tan-pi.itch.io
+
 namespace GodRays2D.Runtime.GodRays
 {
     public class GodRays : ScriptableRendererFeature

@@ -1,3 +1,10 @@
+// GodRays.shader
+// This shader script implements the God Rays effect for 2D scenes in Unity's URP.
+// It uses light sampling and post-processing techniques to create realistic light rays.
+//
+// Project Repository: https://github.com/ItsTanPI/2DURP-GodRays
+// My itch.io Profile: https://tan-pi.itch.io
+
 Shader "Custom/CombineWithGodRays"
 {
     Properties

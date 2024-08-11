@@ -33,7 +33,7 @@ Material:
     - _Count: 1
     - _Decay: 0.96
     - _Density: 90
-    - _Exposure: 0.2
+    - _Exposure: 0.024182566
     - _Weight: 0.51
     m_Colors: []
   m_BuildTextureStacks: []

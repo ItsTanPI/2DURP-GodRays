@@ -42,8 +42,12 @@ https://github.com/user-attachments/assets/dd43c394-350e-404b-9820-889c1c1c5a74
   - `0`: Point Filter (Pixelated)
   - `1`: Bilinear (Smoother)
   - `2`: Trilinear (Super Smooth)
-    
-## Asset Credits
+
+## Credits
+You’re welcome to use the 2DURP GodRays shader in both personal and commercial projects. Feel free to modify it to suit your needs. If you'd like to acknowledge my work, simply mention "Tanpi" in your project with a link to <a href="https://tan-pi.itch.io" target="_blank">https://tan-pi.itch.io</a>. While you can integrate this shader into your own creations, please refrain from redistributing it as a standalone asset.
+
+
+## Asset used in DEMO
 - **Character**: [Shadow Series - The Blind Huntress](https://escape-pixel.itch.io/shadow-series-the-blind-huntress) by Escape Pixel
 - **Bot**: [Sci-Fi Character Pack 12](https://penusbmic.itch.io/sci-fi-character-pack-12) by Penusbmic
 - **Background**: [Mountain Silhouette Pixelart Parallax Background](https://www.gamedevmarket.net/asset/mountain-silhouette-pixelart-parallax-background) from GameDev Market

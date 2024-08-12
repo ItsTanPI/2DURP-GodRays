@@ -3,6 +3,9 @@
 ## Overview
 **2DURP GodRays** is a post-processing shader designed to add a God Rays effect, particularly in 2D scenes. This effect simulates light scattering through a medium, creating visually striking rays of light that enhance the atmosphere of your game.
 
+Project Demo avaliable on Itch [2DURP Godrays](https://tan-pi.itch.io/2durp-godrays)
+
+
 https://github.com/user-attachments/assets/dd43c394-350e-404b-9820-889c1c1c5a74
 
 ## How to Use
